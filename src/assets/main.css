@@ -1,0 +1,77 @@
+@font-face {
+  font-family: "Crimson Regular";
+  src: url("fonts/CrimsonText-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.crimson-regular {
+  font-family: "Crimson Regular", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Crimson SemiBold";
+  src: url("fonts/CrimsonText-SemiBold.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.crimson-semibold {
+  font-family: "Crimson SemiBold", serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Crimson Bold";
+  src: url("fonts/CrimsonText-Bold.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.crimson-bold {
+  font-family: "Crimson Bold", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Crimson Regular Italic";
+  src: url("fonts/CrimsonText-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.crimson-regular-italic {
+  font-family: "Crimson Regular Italic", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Crimson SemiBold Italic";
+  src: url("fonts/CrimsonText-SemiBoldItalic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.crimson-semibold-italic {
+  font-family: "Crimson SemiBold Italic", serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Crimson Bold Italic";
+  src: url("fonts/CrimsonText-BoldItalic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.crimson-bold-italic {
+  font-family: "Crimson Bold Italic", serif;
+  font-weight: 700;
+  font-style: italic;
+}
